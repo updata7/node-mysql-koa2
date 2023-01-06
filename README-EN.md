@@ -8,6 +8,14 @@
 - Using **MVC** mode, it is simple to package, easy to expand, and can be learned by novices or quickly used for secondary development
 - The demos currently implemented include creating users and obtaining user lists.
 
+## run result
+
+<img width="1200" height="200" src="https://gitee.com/ckjiang/node-mysql-koa2/raw/main/image/run-success.png"/>
+
+## API Docs（Auto generate）
+
+<img width="1200" height="300" src="https://gitee.com/ckjiang/node-mysql-koa2/raw/main/image/api.png"/>
+
 # prepare
 
 To builde and run the project, you will need a few thing:

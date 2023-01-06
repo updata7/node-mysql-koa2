@@ -1,6 +1,12 @@
-  <h1>node-mysql-koa2</h1>
+<h1>node-mysql-koa2</h1>
 
-  <p>使用完整的ES2015+功能开发Node.js应用程序，支持TypeScript。</p>
+
+
+简体中文 | [English](./README-EN.md)
+
+
+
+<h5>使用完整的ES2015+功能开发Node.js应用程序，支持TypeScript。</h5>
 
 ## 项目简介
 
@@ -10,6 +16,13 @@
 - 使用**MVC**模式，简单封装，易扩展，可供新手学习，也可以快速上手二次开发
 - 目前实现的demo有：创建用户和获取用户列表。
 - 具体文件结构介绍见**文件结构及说明表**
+
+## 项目运行结果
+<img width="1200" height="200" src="https://gitee.com/ckjiang/node-mysql-koa2/raw/main/image/run-success.png"/>
+
+## API文档（自动生成）
+
+<img width="1200" height="300" src="https://gitee.com/ckjiang/node-mysql-koa2/raw/main/image/api.png"/>
 
 ## 环境准备
 
