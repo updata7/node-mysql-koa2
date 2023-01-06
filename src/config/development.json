@@ -1,0 +1,24 @@
+{
+    "port": 9091,
+    "apiPrefix": "/api",
+    "jwt": {
+        "algorithm": "HS256",
+        "expiresIn": "2d",
+        "secretKey": "secret_+-rwe*6%^vs&43#"
+    },
+    "mongodb": {
+        "uri": "mongodb://127.0.0.1:27020/",
+        "dbname": "testdb"
+    },
+    "mysql": {
+        "dbname": "ck",
+        "user": "root",
+        "password": "123456",
+        "host": "localhost"
+    },
+    "redis": {
+        "host": "127.0.0.1",
+        "port": 6379,
+        "db": 0
+    }
+  }
