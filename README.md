@@ -111,5 +111,4 @@ E-->F(返回相应数据)
 * MIT
 
 * 如果对你有帮助的话，请你点一个星星 star 鼓励我，或者您有更好的建议和意见，请提出来告知我，可以留言 Issues或加我微信。希望能够帮助到你学习！Thanks！共勉！
-<img width="200" src="https://github.com/updata7/node-mysql-koa2/raw/main/image/wx.png"/>
-
+<img width="200" src="https://gitee.com/ckjiang/node-mysql-koa2/raw/main/image/wx.png"/>
